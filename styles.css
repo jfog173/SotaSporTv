@@ -472,6 +472,19 @@ h3 {
     background: var(--gradient-primary);
 }
 
+.referral-badge {
+    position: absolute;
+    top: 14px;
+    right: 14px;
+    padding: 6px 14px;
+    background: var(--gradient-primary);
+    color: var(--bg-dark);
+    border-radius: var(--radius-sm);
+    font-size: 0.75rem;
+    font-weight: 700;
+    z-index: 1;
+}
+
 .price-header {
     margin-bottom: 20px;
 }

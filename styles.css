@@ -498,6 +498,10 @@ h3 {
     font-size: 0.75rem;
     font-weight: 700;
     margin-bottom: 10px;
+    position: absolute;
+    top: 14px;
+    left: 14px;
+    z-index: 1;
 }
 
 .price-header h3 {

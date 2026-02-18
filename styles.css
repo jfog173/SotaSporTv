@@ -158,6 +158,10 @@ h3 {
     object-fit: contain;
 }
 
+.logo .accent {
+    color: var(--primary);
+}
+
 .nav-cta {
     display: flex;
     align-items: center;

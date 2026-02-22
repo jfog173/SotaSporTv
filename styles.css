@@ -655,6 +655,19 @@ h3 {
     font-size: 1.3rem;
 }
 
+.jersey-price del {
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    text-decoration: line-through;
+    margin-right: 6px;
+}
+
+.jersey-badge.offer {
+    background: #ff3b30;
+    color: white;
+    animation: pulse-badge 2s infinite;
+}
+
 .jersey-benefits {
     display: flex;
     justify-content: center;
